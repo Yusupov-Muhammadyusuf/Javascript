@@ -1,1 +1,1 @@
-# Javascript
+Interactive projects created with Javascript
